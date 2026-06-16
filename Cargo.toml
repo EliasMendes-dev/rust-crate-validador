@@ -2,5 +2,11 @@
 name = "rust-validador"
 version = "0.1.0"
 edition = "2024"
+authors = ["Elias <eliasmendes2908@gmail.com>]
+description = "Aula de como criar uma crate"
+license = "Free"
+repository = "https://github.com/EliasMendes-dev/rust-crate-validador"
+documentation = "https://github.com/EliasMendes-dev/rust-crate-validador/blob/main/README.md"
+homepage = "https://github.com/EliasMendes-dev/rust-crate-validador"
 
 [dependencies]
